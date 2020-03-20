@@ -1,5 +1,7 @@
 # myreact
 - [ReactJS Official Documentation](https://reactjs.org/docs/hello-world.html)
+- [Github Resources]()
+  - [Yihua Zhang](https://github.com/ZhangMYihua)
 - [react-application-in-servicenow](https://medium.com/@pishchulin/react-application-in-servicenow-8bdbb1e69c0c)
 
 
